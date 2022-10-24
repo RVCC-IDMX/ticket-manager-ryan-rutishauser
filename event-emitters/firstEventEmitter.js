@@ -1,6 +1,6 @@
 /* eslint-disable prefer-destructuring */
-const chalk = require('chalk');
 
+// eslint-disable-next-line no-unused-vars
 const log = console.log;
 
 const { EventEmitter } = require('events');
